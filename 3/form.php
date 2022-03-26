@@ -42,10 +42,10 @@
         name="radio2" value="2" />
         2</label><br />
       <label><input type="radio"
-        name="radio-2" value="3" />
+        name="radio2" value="3" />
         3</label>
       <label><input type="radio"
-        name="radio-2" value="4" />
+        name="radio2" value="4" />
         4</label><br />     
 
       <label>
@@ -64,7 +64,7 @@
         <textarea name="biography"></textarea>
       </label><br />
 
-      <label><input type="checkbox" checked="checked"
+      <label><input type="checkbox"
       name="check" />
       С контрактом ознакомлен (а)</label><br />
 
